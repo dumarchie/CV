@@ -1,18 +1,23 @@
 name: Docs to PDF
-on: [push]
+on: 
+  push:
+  workflow_dispatch:
+
 jobs:
   converttopdf:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+
       - name: Render Markdown to PDF
         uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_path: "Curriculum Vitae.md"
           output_dir: pdf
           build_html: false
+
       - name: Upload PDF
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: CV-Peter
           path: "pdf/Curriculum Vitae.pdf"
