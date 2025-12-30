@@ -1,7 +1,10 @@
 # Peter du Marchie van Voorthuysen
+
 ### Senior (Lead) Software Ontwikkelaar
 
-**T:** +31 6 1418 2824 | **E:** p.dumarchie@gmail.com
+**T:** +31 6 1418 2824
+
+**E:** p.dumarchie@gmail.com
 
 ---
 
@@ -15,7 +18,7 @@
 
 * **Nationaliteit:** Nederlandse
 
-&nbsp;
+
 
 ## Persoonlijk profiel
 
@@ -23,7 +26,7 @@ Gedreven Senior (Lead) Software Ontwikkelaar met ruim 20 jaar ervaring in het re
 
 Ik bewaak de systeemintegriteit door vast te houden aan een heldere architectuur en een test-gecontroleerde (agile) werkwijze. Mijn focus ligt op het ontwerpen van intuïtieve API's en het proactief tackelen van edge cases, waarbij ik altijd streef naar een optimale ervaring voor zowel de eindgebruiker als de mede-ontwikkelaar. Ik krijg energie van het naar een hoger plan tillen van ontwikkelteams door coaching en technische visie.
 
-&nbsp;
+
 
 ## Technische expertise
 
@@ -37,7 +40,7 @@ Ik bewaak de systeemintegriteit door vast te houden aan een heldere architectuur
 
 * **Methodiek:** Agile, Test-Driven Development (TDD), API Design, Clean Code (minimaliseren van technische schuld).
 
-&nbsp;
+
 
 ## Werkervaring
 
@@ -56,7 +59,7 @@ Ik bewaak de systeemintegriteit door vast te houden aan een heldere architectuur
 
 **1999 – 2001: Detachering bij diverse ICT bedrijven**
 
-&nbsp;
+
 
 ## Opleidingen
 
@@ -67,6 +70,7 @@ Ik bewaak de systeemintegriteit door vast te houden aan een heldere architectuur
 **1989 – 1991:** Filosofie, Rijksuniversiteit Groningen
 
 **Pre-universitair:** Gymnasium (Groningen) \& Atheneum (Haren)
+
 
 
 
